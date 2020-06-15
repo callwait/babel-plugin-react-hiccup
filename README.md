@@ -3,6 +3,7 @@
 [![npm](https://img.shields.io/npm/v/babel-plugin-react-hiccup.svg)](https://www.npmjs.com/package/babel-plugin-react-hiccup)
 
 *Hiccup syntax for React components with Babel.*
+*React Native ready.*
 
 ## Example
 

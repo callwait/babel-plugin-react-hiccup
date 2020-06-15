@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-react-hiccup",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hiccup syntax for React components",
   "repository": "callwait/babel-plugin-react-hiccup",
   "main": "dist/index.js",
