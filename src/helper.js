@@ -1,6 +1,6 @@
 'use strict';
 
-import { parse } from 'babylon';
+import { parse } from '@babel/parser';
 
 function parsePragma() {
   return parse('React.createElement').program.body[0].expression;
